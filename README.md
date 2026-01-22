@@ -1,6 +1,6 @@
 # Lab 1: Microsoft Windows Infrastructure Setup
 
-*For the full step-by-step documentation and configuration logs, please view the [Full Lab Report PDF](./Lab_1_Report.pdf).*
+--
 
 ## Executive Summary
 This project establishes a fully networked client-server environment designed to simulate a hierarchical enterprise network. The objective was to deploy a multi-server **Active Directory (AD)** forest architecture using **Windows Server 2022**. The infrastructure includes a forest root domain and two child domains, requiring the configuration of distinct hardware roles, secure boot environments, and integrated DNS services.
